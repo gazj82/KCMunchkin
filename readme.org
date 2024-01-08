@@ -1,0 +1,14 @@
+*K C Munchkin for amiga*
+
+Amiga Version 1.0
+
+Originally a Philips Videopac G7000 game
+Amiga Version by Gary James 2018
+Released exclusively for Amigathon 2018
+
+This is my third go at Blitz Basic and my second port of a G7000 game to the Amiga.
+It should work on any original Amiga.
+
+The .adf file is a finished disk image for use in / on amigas
+
+The source file ending .bb
